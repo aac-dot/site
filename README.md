@@ -1,1 +1,1 @@
-Repositório utilizado para testar comandos e conceitos do github
+Repositório utilizado para testar comandos e conceitos do git/github.
