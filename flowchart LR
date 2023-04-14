@@ -1,3 +1,5 @@
+```mermaid
 flowchart LR
 A[Node 1] -->B(Node 2)
 B --> C{Node 6}
+```
